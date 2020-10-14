@@ -5,4 +5,4 @@ app = Flask(__name__)
 CORS(app)
 
 # Import all your API endpoint methods here
-import is452.routes.square
+import api.routes.square

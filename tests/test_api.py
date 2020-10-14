@@ -1,7 +1,7 @@
 import unittest
 import json
 
-from is452 import app
+from api import app
 
 class ApiTest(unittest.TestCase):
     # setUp has to be capitalised this way, see https://docs.python.org/3/library/unittest.html

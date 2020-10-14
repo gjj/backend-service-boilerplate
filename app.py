@@ -1,6 +1,6 @@
 import logging
 import socket
-from is452 import app
+from api import app
 from flask import make_response
 
 # Default route
